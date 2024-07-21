@@ -73,9 +73,7 @@ eurorbit-weather-forecast/
 ```
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
-```
+This project is licensed under the MIT License. See the LICENSE file for more details.
 
 ## Acknowledgments
 - Coursera Project Network for providing the course and guidance.
@@ -83,5 +81,4 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 ## Author
 - Ranit Saha:Coderooz (viewersweb02@gmail.com)
-
-```
+
